@@ -11,18 +11,37 @@ header {
     margin: 0 auto;
 }
 
-.my-font-medium {
+.my-size-medium {
     font-size: 1.3rem;
+}
+
+.my-size-big {
+    font-size: 3.5rem;
+}
+
+.my-font-medium {
+    font-weight: 500;
 }
 
 .my-font-big {
     font-weight: 700;
 }
 
-.my-ul-header {
-    margin: 0;
+.fa-star {
+    font-size: 2rem;
 }
 
-.my-margin-nav {
-    margin: 0 30px;
+
+
+/* Jumbotron */
+.my-bg-jumbo {
+    background-color: #1abc9c;
+}
+
+.my-avatar-img {
+    height: 250px;
+}
+
+.my-jumbo-line {
+    height: 3px;
 }
