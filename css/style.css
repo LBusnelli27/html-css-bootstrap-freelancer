@@ -1,4 +1,4 @@
-* {
+s* {
     font-family: 'Roboto', sans-serif;
 }
 
@@ -6,12 +6,13 @@ body {
     overflow-x: hidden;
 }
 
-
+/* With for content */
 .my-main-container {
     width: 80%;
     margin: 0 auto;
 }
 
+/* Font size */
 .my-size-little {
     font-size: .85rem;
 }
@@ -24,6 +25,7 @@ body {
     font-size: 3rem;
 }
 
+/* Font weight */
 .my-font-medium {
     font-weight: 500;
 }
@@ -32,6 +34,7 @@ body {
     font-weight: 700;
 }
 
+/* Text color */
 .my-text-gray {
     color: #2c3e50;
 }
@@ -40,6 +43,7 @@ body {
     color: #1abc9c;
 }
 
+/* Bg color */
 .my-bg-lightgray {
     background-color: #3a546d;
 }
@@ -52,10 +56,12 @@ body {
     background-color: #1abc9c;
 }
 
+/* Margin */
 .my-mt-section {
     margin-top: 4rem;
 }
 
+/* Padding */
 .my-pt-section {
     padding-top: 3.5rem;
 }
@@ -64,6 +70,7 @@ body {
     padding-bottom: 2.5rem;
 }
 
+/* Sizing the star symbol */
 .fa-star {
     font-size: 2rem;
 }
@@ -86,7 +93,6 @@ body {
 }
 
 
-
 /* Portfolio */
 .my-port-img {
     width: 100%;
@@ -101,7 +107,6 @@ body {
     border: 1px solid white;
     border-radius: 5px;
 }
-
 
 
 /* Footer */
