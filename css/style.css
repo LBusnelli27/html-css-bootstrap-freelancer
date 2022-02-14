@@ -112,3 +112,12 @@ body {
     border: 1px solid white;
     border-radius: 50%;
 }
+
+
+
+/* Media queries */
+@media screen and (max-width: 768px) {
+    .my-main-container {
+        width: 95%;
+    }
+}
